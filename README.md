@@ -1,3 +1,2 @@
 # git_test
-This is the first GitHub repo ! YAAY !!! 
-Hello Odin Amca ! 
+figuring out how this git thing works 
